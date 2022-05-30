@@ -24,3 +24,10 @@
 #content {
     margin: 64px auto;
 }
+
+/* cambair estilos de p */
+p {
+    font-size: 1.2em;
+    line-height: 1.5em;
+    text-align: justify;
+}
